@@ -20,8 +20,4 @@ if (imc < 18.5) {
     console.log('Abaixo do peso');
 } else if (imc >= 18.5 && imc < 25 )
 
-}
 
-function limparCampos(){
-
-}
